@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.exe
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.deps.json
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.runtimeconfig.json
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.dll
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\bin\Debug\netcoreapp3.1\АвторизацияРегистрация.pdb
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\obj\Debug\netcoreapp3.1\АвторизацияРегистрация.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\obj\Debug\netcoreapp3.1\АвторизацияРегистрация.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\obj\Debug\netcoreapp3.1\АвторизацияРегистрация.AssemblyInfo.cs
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\obj\Debug\netcoreapp3.1\АвторизацияРегистрация.dll
+C:\Users\Acer\source\repos\АвторизацияРегистрация\АвторизацияРегистрация\obj\Debug\netcoreapp3.1\АвторизацияРегистрация.pdb
